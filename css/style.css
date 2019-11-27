@@ -1,0 +1,83 @@
+body {
+    background-image: url("../images/backg/b2.png");
+   
+  }
+  .col-md-4{
+    top: 80px;
+    
+  }
+  .conten-item col-md-4{
+    background-image: url("../images/item2/2.9.png");
+  }
+
+  .anh1{
+    position: absolute;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    top: 0px;
+  }
+  .anh2{
+    position: absolute;
+    top: 0px;
+    opacity: 0.4;
+  }
+  .anh8{
+    position: absolute;
+    top: 0;
+    opacity: 0.4;
+  }
+  .anh3{
+    top: -50px;
+    position: absolute;
+    margin-left: 70px;
+  }
+  .main{
+    position: absolute;
+    top: 245px;
+  }
+  .footer{
+    position: absolute;
+  }
+  .pic{
+    position: absolute;
+    top: 0;
+    opacity: 0.3;
+  }
+  .pic2{
+    position: absolute;
+    top: 0;
+  }
+  .pic3{
+    position: absolute;
+    top: 0;
+    opacity: 0.5;
+  }
+  .pic4{
+    position: relative;
+    margin-top: -560px;
+    
+  }
+  .pic5{
+    margin-top: -104px;
+    position: relative;
+    margin-left: -9px;
+  }
+  .pic6{
+    position: absolute;
+    top: 0;
+  }
+  .pic7{
+    position: absolute;
+    top: 0;
+    opacity: 0.5;
+  }
+  .pic8{
+    position: absolute;
+    top: 0;
+    opacity: 0.5;
+  }
+  .pic9{
+    position: absolute;
+    top: -49px;
+    margin-left: 70px;
+  }
